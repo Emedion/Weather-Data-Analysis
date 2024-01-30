@@ -1,22 +1,102 @@
-,Cities ,Temp (°C),Description
-0,Cairo,17.42,scattered clouds
-1,Lagos,35.18,clear sky
-2,Nairobi,24.81,scattered clouds
-3,Accra,32.23,haze
-4,Johannesburg,23.94,overcast clouds
-5,Casablanca,22.3,scattered clouds
-6,Luanda,33.0,few clouds
-7,Tunis,19.89,clear sky
-8,Cape Town,24.93,clear sky
-9,FreeTown,30.84,haze
-10,Dakar,29.07,dust
-11,Maputo,28.82,few clouds
-12,Conakry,31.04,haze
-13,Gaborone,31.95,scattered clouds
-14,Bamako,31.23,scattered clouds
-15,Lusaka,21.67,clear sky
-16,Maseru,27.06,broken clouds
-17,Kigali,26.71,scattered clouds
-18,Kumasi,37.26,clear sky
-19,Banjul,35.18,few clouds
-20,Bangui,35.1,scattered clouds
+,Country,Cities ,Temp (°C),Description
+0,DZ,Algiers,12.9,scattered clouds
+1,HK,Kowloon,17.32,overcast clouds
+2,IN,Mumbai,24.99,smoke
+3,MM,Nay Pyi Taw,15.88,clear sky
+4,ZA,Durban,22.51,few clouds
+5,NA,Windhoek,20.59,overcast clouds
+6,SV,San Salvador,22.71,scattered clouds
+7,RE,Saint-Pierre,24.82,light rain
+8,GB,Arnold,10.93,overcast clouds
+9,JP,Yokohama,7.29,few clouds
+10,CN,Nanchong,8.74,overcast clouds
+11,ES,Madrid,8.24,clear sky
+12,RU,Moscow,-1.42,overcast clouds
+13,AM,Yerevan,-3.91,scattered clouds
+14,CK,Avarua,29.03,broken clouds
+15,ET,Addis Ababa,14.04,overcast clouds
+16,PH,Manila,25.88,scattered clouds
+17,BR,Curitiba,20.25,few clouds
+18,ID,Banda Aceh,27.81,scattered clouds
+19,US,Dublin,19.97,broken clouds
+20,NG,Abuja,24.08,clear sky
+21,CI,Yamoussoukro,21.59,clear sky
+22,CY,Nicosia,8.84,broken clouds
+23,ZM,Lusaka,17.4,clear sky
+24,MP,Saipan,25.78,overcast clouds
+25,OM,Muscat,23.3,overcast clouds
+26,BW,Gaborone,22.6,scattered clouds
+27,KZ,Nur-Sultan,-28.03,mist
+28,TR,Ankara,-1.55,few clouds
+29,DE,Hamburg,4.04,clear sky
+30,SN,Dakar,22.07,overcast clouds
+31,GQ,Malabo,25.92,mist
+32,IL,Jerusalem,6.82,light rain
+33,TD,N'Djamena,23.98,clear sky
+34,LB,Beirut,12.41,broken clouds
+35,IR,Tehran,2.79,scattered clouds
+36,TG,Lome,27.09,clear sky
+37,NO,Oslo,-1.56,overcast clouds
+38,SA,Jeddah,20.92,few clouds
+39,TZ,Dar es Salaam,28.21,broken clouds
+40,GE,Tbilisi,0.84,overcast clouds
+41,CO,Cali,29.0,few clouds
+42,JE,Saint Helier,10.25,overcast clouds
+43,LS,Maseru,19.05,few clouds
+44,US,Melbourne,13.36,clear sky
+45,PK,Rawalpindi,10.13,scattered clouds
+46,AS,Pago Pago,28.84,overcast clouds
+47,GF,Cayenne,24.02,overcast clouds
+48,SI,Ljubljana,-3.42,clear sky
+49,AX,Mariehamn,-2.08,mist
+50,SD,Khartoum,19.55,overcast clouds
+51,CD,Lubumbashi,16.93,overcast clouds
+52,NZ,Wellington,20.31,scattered clouds
+53,EE,Tallinn,1.75,few clouds
+54,RS,Belgrade,-1.25,clear sky
+55,GN,Conakry,25.87,scattered clouds
+56,MV,Male,27.97,scattered clouds
+57,KR,Incheon,-3.07,mist
+58,VE,Caracas,22.67,few clouds
+59,UA,Kyiv,-1.54,overcast clouds
+60,SZ,Mbabane,15.45,overcast clouds
+61,FI,Helsinki,0.0,clear sky
+62,MY,Georgetown,25.27,few clouds
+63,KW,Kuwait,16.59,overcast clouds
+64,FJ,Suva,27.87,overcast clouds
+65,VG,Road Town,27.02,scattered clouds
+66,QA,Doha,18.97,clear sky
+67,LA,Vientiane,18.58,mist
+68,MY,Kuala Lumpur,24.46,few clouds
+69,GP,Basse-Terre,21.58,light rain
+70,PF,Papeete,30.96,light rain
+71,EG,Giza,11.41,clear sky
+72,TL,Dili,28.2,broken clouds
+73,UZ,Tashkent,1.97,overcast clouds
+74,NC,Noumea,30.0,scattered clouds
+75,BO,La Paz,13.99,scattered clouds
+76,AR,Cordoba,26.8,clear sky
+77,MQ,Fort-de-France,24.97,light rain
+78,TJ,Dushanbe,3.9,mist
+79,SS,Juba,24.52,overcast clouds
+80,TH,Bangkok,24.57,scattered clouds
+81,CV,Praia,22.3,broken clouds
+82,PT,Lisbon,13.37,mist
+83,AF,Kabul,-0.1,broken clouds
+84,NI,Managua,31.69,few clouds
+85,US,Douglas,5.75,clear sky
+86,LY,Tripoli,14.44,broken clouds
+87,US,Rome,6.49,clear sky
+88,HU,Budapest,-0.5,clear sky
+89,KM,Moroni,26.83,moderate rain
+90,AE,Abu Dhabi,21.4,clear sky
+91,CA,Ottawa,-2.5,few clouds
+92,HT,Port-au-Prince,26.79,broken clouds
+93,PG,Port Moresby,30.64,broken clouds
+94,VU,Port-Vila,27.63,broken clouds
+95,DK,Copenhagen,3.05,broken clouds
+96,BJ,Porto-Novo,26.59,clear sky
+97,GR,Athens,5.05,broken clouds
+98,MN,Ulan Bator,-34.93,scattered clouds
+99,MO,Macau,14.72,mist
+100,MW,Lilongwe,21.11,clear sky
